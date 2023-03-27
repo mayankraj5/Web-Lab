@@ -1,0 +1,11 @@
+body  
+{
+  color: blue;
+  background-image:url("images/weather.png");
+  height: 700px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  background-color:rgb(36, 182, 126);
+  
+}

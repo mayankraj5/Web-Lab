@@ -1,0 +1,12 @@
+
+body  
+{
+  color: blue;
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fnordicapis.com%2F6-best-free-and-paid-weather-apis%2F&psig=AOvVaw0t3RDXY0K4MBfesTus0xyr&ust=1642827441675000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjh1qKHwvUCFQAAAAAdAAAAABAD");
+  height: 700px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  background-color:rgb(36, 182, 126);
+  
+}
